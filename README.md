@@ -14,10 +14,7 @@
   </a>
 </div>
 
-<table>
-  <tr>
-    <td>
-Here are some ideas to get you started:
+### A little about myself
 
 - 📚 I'm a student of System of Information in UFSM
 - 🔭 I’m currently working on @meliuz
@@ -26,14 +23,6 @@ Here are some ideas to get you started:
 - ⚽ My hobbies are Mountain Bike, play games and play guitar
 - 🔭 I like Science and Asrtronomy
 - 🎶 My favorite music style: I'm eclectic, but I prefer eletronic music and classic rock.
-    </td>
-    
-    <td>
-![giphy](https://user-images.githubusercontent.com/29017844/160313908-6338f1a9-a84a-4ba1-ab28-d126a5df9428.gif)
-    </td>
-  </tr>
-</table>
-
 
 ## Stats
 
